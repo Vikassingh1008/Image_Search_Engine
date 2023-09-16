@@ -1,5 +1,5 @@
 
-const accessKey="dxcTlVcRxpTT82FINM_ZH4k1qqmL8Br9EX6TbvTUzY8";
+const accessKey="";//to add access key that place
 const searchform=document.getElementById("search-form");
 const searchbox=document.getElementById("search-box");
 const searchresult=document.getElementById("search-result");
